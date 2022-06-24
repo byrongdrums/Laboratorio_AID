@@ -1,2 +1,2 @@
 # Laboratorio_AID
-Dataset extraido de Kaggle, no es de mi propiedad, lo posteo en github por facilidad de lectura en R.
+Dataset genérico de empresa de telecomunicaciones, generado a partir de valores aleatorios.
